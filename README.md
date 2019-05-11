@@ -1,4 +1,4 @@
-# Netlify Form Handling
+# Netlify's Form Handling and Recaptcha Mechanism
 
 > This project demonstrates Netlify's Form Handling and recaptcha mechanisms without writing any backend logic!
 
